@@ -1,0 +1,45 @@
+body{
+    /* background-color:rgb(36, 53, 63)!important; */
+    font-family: "Titillium Web", sans-serif;
+}
+h1{
+    color: rgb(23, 162, 184);
+    /* color: #ffffff; */
+}
+.box2{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.inner{
+    /* border: 1px rgb(0, 0, 0) solid; */
+    /* background-color:#19A7CE; */
+    width: 65%;
+    /* height: 100vh; */
+box-shadow:1px 1px 10px 5px rgb(0 0 0 / 26%);
+
+background-color:rgb(52,77,92);
+}
+.col-md-12 .input{
+    color: #ffffff;
+    background-color: transparent;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: white;
+}
+.alert{
+    display: none;
+}
+.stuLogin{
+    margin-top: 110px;
+}
+label{
+    color: #ffffff;
+}

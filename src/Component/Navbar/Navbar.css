@@ -1,0 +1,26 @@
+.active{
+    color: #ffc107!important;
+}
+.nav-item .nav-link ,.nav-item i{
+    font-size: 1.4rem;
+    color:#fff;
+    text-decoration: none;
+
+}
+nav{
+    background-color: #07294F  !important;
+    position: fixed !important;
+ z-index: 10000;
+
+    width: 100%;
+   
+    top:0px;
+    left:0px;
+    padding:13px 0px!important;
+} 
+.nav-item .nav-link:hover{
+    color:#ffc107!important;
+}
+.webname{
+color: white;
+}
