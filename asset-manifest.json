@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ControlPortal/static/css/main.ea1abc90.css",
+    "main.js": "/ControlPortal/static/js/main.aa098185.js",
+    "static/media/fa-solid-900.ttf": "/ControlPortal/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/ControlPortal/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/ControlPortal/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/post-3.jpg": "/ControlPortal/static/media/post-3.6a0c63d650d55aa77e19.jpg",
+    "static/media/fa-brands-400.woff2": "/ControlPortal/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/ali.jpeg": "/ControlPortal/static/media/ali.bc6b428b7169848065a4.jpeg",
+    "static/media/about2.jpeg": "/ControlPortal/static/media/about2.89e5c9c5b02074f64af2.jpeg",
+    "static/media/about1.jpg": "/ControlPortal/static/media/about1.0492d52dbda16e197dc8.jpg",
+    "static/media/fa-regular-400.ttf": "/ControlPortal/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/mohamed.jpeg": "/ControlPortal/static/media/mohamed.41320485e16e4a592cd1.jpeg",
+    "static/media/stutent.jpg": "/ControlPortal/static/media/stutent.2f6ba2288ba206c13ffc.jpg",
+    "static/media/gamal.jpeg": "/ControlPortal/static/media/gamal.bac432a509725c0f614f.jpeg",
+    "static/media/fa-regular-400.woff2": "/ControlPortal/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/photo_2023-05-04_13-55-44.jpg": "/ControlPortal/static/media/photo_2023-05-04_13-55-44.42e39237e2077008f9ab.jpg",
+    "static/media/about3.jpeg": "/ControlPortal/static/media/about3.683c303d8f0665df0666.jpeg",
+    "static/media/fa-v4compatibility.ttf": "/ControlPortal/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/ControlPortal/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/ControlPortal/index.html",
+    "main.ea1abc90.css.map": "/ControlPortal/static/css/main.ea1abc90.css.map",
+    "main.aa098185.js.map": "/ControlPortal/static/js/main.aa098185.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea1abc90.css",
+    "static/js/main.aa098185.js"
+  ]
+}
